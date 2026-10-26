@@ -1,4 +1,4 @@
 interface:
   display_name: "Agent Workflow Design"
-  short_description: "Design reliable domain Agent workflows and tool contracts"
-  default_prompt: "Use $agent-workflow-design to design or review an Agent workflow."
+  short_description: "Improve Agent evidence use, reasoning, and handoffs"
+  default_prompt: "Use $agent-workflow-design to improve how this Agent obtains information, supports judgments, and hands off results."
